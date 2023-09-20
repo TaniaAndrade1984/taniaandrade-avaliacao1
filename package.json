@@ -1,0 +1,10 @@
+{
+  "name": "avaliacao1",
+  "version": "1.0.0",
+  "repository": "https://github.com/profalves/calculadora-template-sample.git",
+  "author": "Tania Andrade <ta.nia198477@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
