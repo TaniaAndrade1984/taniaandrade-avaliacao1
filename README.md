@@ -1,6 +1,6 @@
 # calculadora
 
-Nesta atividade o professor Rodrigo Alves, do programa Tech Empower propos o seguinte desafio:
+# Nesta atividade o professor Rodrigo Alves, do programa Tech Empower propos o seguinte desafio:
 
 - Criar uma calculadora para funcionar e ela deve fazer pelo menos 4 operações da matemática: **soma, subtração, multiplicação ou divisão**.
 
